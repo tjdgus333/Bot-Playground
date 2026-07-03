@@ -1,6 +1,6 @@
 package smells;
 
-public class BadCodeExample {
+public class BadCodeExample2 {
 
     // 1. 제어자 순서 오류 (SonarQube Rule: java:S1124)
     // 표준 권장 순서(public static final)를 어김
