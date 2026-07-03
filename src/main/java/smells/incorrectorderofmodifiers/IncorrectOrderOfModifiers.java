@@ -10,7 +10,7 @@ public class IncorrectOrderOfModifiers {
 	/**
 	 * expected: private static final int
 	 */
-	private final static int MULTIPLIER = 10;
+	private static final int MULTIPLIER = 10;
 
 	/**
 	 * 
@@ -21,3 +21,4 @@ public class IncorrectOrderOfModifiers {
 	}
 
 }
+
