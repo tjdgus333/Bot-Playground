@@ -10,11 +10,6 @@ public class CommentedOutCode {
 	protected int calculateSomething() {
 		int result = 0;
 		
-//		int i = 0;
-//		while (i < 10) {
-//			result = result + i;
-//			i++;
-//		}
 		
 		// an important comment
 		for (int i = 0; i < 10; i++) {
@@ -25,3 +20,4 @@ public class CommentedOutCode {
 	}
 	
 }
+
